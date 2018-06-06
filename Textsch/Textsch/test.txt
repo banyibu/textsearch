@@ -1,0 +1,13 @@
+Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
+
+Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features.
+
+As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
+
+Note
+
+The best way to try out Solidity right now is using Remix (it can take a while to load, please be patient). Remix is a web browser based IDE that allows you to write Solidity smart contracts, then deploy and run the smart contracts.
+
+Warning
+
+Since software is written by humans, it can have bugs. Thus, also smart contracts should be created following well-known best-practices in software development. This includes code review, testing, audits and correctness proofs. Also note that users are sometimes more confident in code than its authors. Finally, blockchains have their own things to watch out for, so please take a look at the section Security Considerations.
